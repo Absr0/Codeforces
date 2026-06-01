@@ -1,0 +1,6 @@
+k,n,w = map(int,input().split())
+m = k*w*(w+1)//2
+if m - n <= 0:
+  print(0)
+else:
+  print(abs(m-n))
