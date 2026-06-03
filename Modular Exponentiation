@@ -1,0 +1,6 @@
+n=int(input())
+m=int(input())
+if n>=m.bit_length():
+    print(m)
+else:
+    print(m%(1<<n))
