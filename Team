@@ -5,3 +5,4 @@ for i in range(m):
     if sum(arr)>=2:
         count+=1
 print(count)
+
