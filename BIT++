@@ -7,3 +7,4 @@ for I in range(n):
     else:
         count -=1
 print(count)
+
