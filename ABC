@@ -11,3 +11,4 @@ for _ in range(test):
             print("NO")
     else:
         print("NO")
+
