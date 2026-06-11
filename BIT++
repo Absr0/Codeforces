@@ -1,6 +1,6 @@
 n=int(input())
 count = 0
-for I in range(m):
+for I in range(n):
     word = input()
     if "++" in word:
         count +=1
