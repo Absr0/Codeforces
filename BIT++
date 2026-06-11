@@ -6,5 +6,4 @@ for I in range(n):
         count +=1
     else:
         count -=1
-print(count)
-
+console.log(count);
