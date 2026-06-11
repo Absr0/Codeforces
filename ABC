@@ -1,5 +1,5 @@
-t=int(input())
-for _ in range(t):
+test=int(input())
+for _ in range(test):
     n=int(input())
     s=input().strip()
     if n==1:
